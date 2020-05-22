@@ -1,5 +1,6 @@
 <html>
 	<body>
+		<h1> TEST </h1>
 		<?php
 			$servername = "localhost";
 			$username = "root";
